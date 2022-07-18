@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"dyl0010"
+	],
+	"copyright": "Copyright © 2022, dyl0010",
+	"dependencies": {
+		"dlangui": "~>0.9.187"
+	},
+	"description": "A file batch naming tool inspired by PowerRename",
+	"license": "MIT",
+	"name": "dame"
+}

@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dame
+dame.so
+dame.dylib
+dame.dll
+dame.a
+dame.lib
+dame-test-*
+*.exe
+*.o
+*.obj
+*.lst
